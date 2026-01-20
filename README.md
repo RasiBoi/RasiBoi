@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0077b5,000000&height=320&section=header&text=Rasindu%20Gamlath&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Software%20Developer&descAlignY=60&descSize=25)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0077b5,000000&height=320&section=header&text=Rasindu%20Gamlath&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Software%20Engineer&descAlignY=60&descSize=25)
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Architecting+AWS+%26+Azure+Solutions;Coding+in+Go%2C+Python+%26+Java" alt="Typing SVG" />
